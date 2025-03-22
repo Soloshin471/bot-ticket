@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 222840461c9bce0057c864d7d0c8a9a48276b5fe comptehack43 <36097498-comptehack43@users.noreply.replit.com> 1742613669 +0000	commit (initial): Initial commit
+222840461c9bce0057c864d7d0c8a9a48276b5fe 481e08ee850117b969d4dd567a6b4c9072f2d692 comptehack43 <36097498-comptehack43@users.noreply.replit.com> 1742613669 +0000	commit: Checkpoint after starting plan
+481e08ee850117b969d4dd567a6b4c9072f2d692 7eebddb3a10d28d1ad7e1b0feff7e4260b8a410b comptehack43 <36097498-comptehack43@users.noreply.replit.com> 1742614297 +0000	commit: Add initial project files and basic UI components for Discord ticket bot.
+7eebddb3a10d28d1ad7e1b0feff7e4260b8a410b b6d9038928b9cae1392f8452ffd38e2d4a77dfad comptehack43 <36097498-comptehack43@users.noreply.replit.com> 1742614554 +0000	commit: Add dotenv package and configure environment variables.
+b6d9038928b9cae1392f8452ffd38e2d4a77dfad 74edc87f43767ec4a824a66fee5d9eed67d4f8b2 comptehack43 <36097498-comptehack43@users.noreply.replit.com> 1742614783 +0000	commit: Fix: Correctly convert permission bits to strings in ticket and command handling.
+74edc87f43767ec4a824a66fee5d9eed67d4f8b2 2bc0f8ec1265aa8822736c8bf39a1c840c7b3ff0 comptehack43 <36097498-comptehack43@users.noreply.replit.com> 1742615024 +0000	commit: Enhance slash command registration and display
+2bc0f8ec1265aa8822736c8bf39a1c840c7b3ff0 fe6a618609504dea1c2410f99726d1df677b01d4 comptehack43 <36097498-comptehack43@users.noreply.replit.com> 1742615820 +0000	commit: Add bot pinging functionality to keep the Discord bot connected to the host.
